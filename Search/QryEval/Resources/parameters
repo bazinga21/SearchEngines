@@ -1,0 +1,14 @@
+queryFilePath=/Users/aditya/Desktop/Search/QryEval/Resources/queries
+indexPath=/Users/aditya/Desktop/Search/index
+trecEvalOutputPath=/Users/aditya/Desktop/Reesult/HW1_EXP1_BM25.txt
+retrievalAlgorithm=BM25
+BM25:k_1=1.2
+BM25:b=0.75
+BM25:k_3=0
+//diversity=true
+//diversity:initialRankingFile=/Users/aditya/Desktop/Search/QryEval/Resources/initial_ranking
+//diversity:intentsFile=/Users/aditya/Desktop/Search/QryEval/Resources/intents
+//diversity:maxInputRankingsLength=100
+//diversity:maxResultRankingLength=50
+//diversity:lambda=0.5
+//diversity:algorithm=PM2
